@@ -21,6 +21,11 @@
     min-height: 300px;
 }
 
+.dark-text-color {
+    color: black;
+}
+
+
 .po_item img {
     max-width: 100%;
 }

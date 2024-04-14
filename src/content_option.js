@@ -68,16 +68,19 @@ const services = [{
 const dataportfolio = [{
     img: "./././doctourna.png",
     description: "Application  Doctourna",
+    contenue: " Développement d’une solution complète permettant aux patients/médecins de gérer des rendez-vous et les régler sur leurs calendrier de manière simple et sécurisée. Permet également aux utilisateurs d’accéder a un forum. lire les dernières articles de santés ou même acheter des vidéos de coaching",
     link: "#",
 },
 {
     img: "./././scolarsys.png",
     description: " Scolarsys",
+    contenue: "Une plateforme qui offre aux etudiants et aux professeurs un espace pour suivre les cours et les emplois du temps et consulter les notes de chaque matiere",
     link: "#",
 },
 {
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
+    img: "./././devopss.jpeg",
+    description: "Devops Project ",
+    contenue: "Mise en place d’une application web d’achat en créant une image docker générer avec le fichier dockerfile. Ce projet a permis d’automatiser l’intégration continue, de garantir la qualité du code, de gérer efficacement le code source, de stocker les artefacts et de surveiller les performances de l’application",
     link: "#",
 },
 {
@@ -103,12 +106,12 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "andolssimeriem@gmail.com",
     YOUR_FONE: "+216 29404128",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: " ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
+    YOUR_SERVICE_ID: "service_9y80cwh",
     YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_USER_ID: "B6jUSAQyi5rWbN4kE",
 };
 
 const socialprofils = {
